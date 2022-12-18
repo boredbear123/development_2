@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Air Jordan 1 Royal Blue",
+        "description": "The very first colorway released to the public, the Air Jordan 1 Royal Blue was Michael Jordan’s personal favorite.",
+        "year": 1985,
+        "price": 354,
+        "image": "../../images/Royal_Blue.jpg"
+    },
+    {
+        "name": "Air Jordan 1 Black Toe",
+        "description": "One of the debut AJ-1 colorways, the Black Toe remains one of the sneaker’s most iconic and beloved designs.",
+        "year": 1985,
+        "price": 696,
+        "image": "images/Black_toe.webp"
+    },
+    {
+        "name": "Air Jordan 1 BRED/Banned",
+        "description": "The BRED or Banned colorway of the Air Jordan 1 is the only sneaker that could be classified as “badass.”",
+        "year": 1985,
+        "price": 804,
+        "image": "images/BRED_banned.webp"
+    },
+    {
+        "name": "Air Jordan 1 UNC/Carolina Blue",
+        "description": "Not quite as rare as some of the other first-year colorways, the UNC remains one of the prettiest pairs of Air Jordan 1s",
+        "year": 1985,
+        "price": 734,
+        "image": "images/Air-Jordan-1-Retro-UNC-Product.webp"
+    },
+    {
+        "name": "Air Jordan 1 Retro High OG 'Chicago Lost & Found'",
+        "description": "The Air Jordan 1 Retro High OG ‘Chicago Lost & Found’ brings back the iconic silhouette that started it all.",
+        "year": 1985,
+        "price": 452,
+        "image": "images/Chicago_lost_found.webp"
+    },
+    {
+        "name": "Zion Williamson x Air Jordan 1 Retro Low OG 'Voodoo'",
+        "description": "The Zion Williamson x Air Jordan 1 Retro Low OG ‘Voodoo’ shares a New Orleans-inspired theme with a companion Zion 2 colorway from June 2022. ",
+        "year": 2022,
+        "price": 361,
+        "image": "images/Zion_Voodoo.webp"
+    },
+    {
+        "name": "Off-White x Air Jordan 1 Retro High OG 'UNC' Sample",
+        "description": "A new twist to the classic Air Jordan University.",
+        "year": 2018,
+        "price": 1853,
+        "image": "images/Off_white_UNC.webp"
+    },
+    {
+        "name": "Air Jordan 1 Retro High OG 'Stage Haze'",
+        "description": "The Air Jordan 1 Retro High OG ‘Stage Haze’ features neutral tones on the foundational sneaker that started it all.",
+        "year": 2022,
+        "price": 263,
+        "image": "images/Stage_Haze.webp"
+    },
+    {
+        "name": "Air Jordan 1 Mid 'Smoke Grey'",
+        "description": "The Air Jordan 1 Mid ‘Smoke Grey’ delivers an entirely neutral iteration of the classic silhouette. ",
+        "year": 2020,
+        "price": 207,
+        "image": "images/Smoke_grey.webp"
+    },
+    {
+        "name": "Travis Scott x Air Jordan 1 Low OG 'Reverse Mocha'",
+        "description": "The Travis Scott x Air Jordan 1 Low OG ‘Reverse Mocha’ delivers a twist on the original ‘Mocha’ AJ1 Low from 2019.",
+        "year": 2019,
+        "price": 1123,
+        "image": "images/Travis_low.webp"
+    },
+    {
+        "name": "Air Jordan 1 Retro High '85 'Georgetown'",
+        "description": "Restored with a heritage build, the Air Jordan 1 Retro High ‘85 ‘Georgetown’ features a familiar two-tone design that celebrates the 40th anniversary of Michael Jordan’s title-clinching shot against the Hoyas on March 29, 1982.",
+        "year": 2022,
+        "price": 361,
+        "image": "images/Georgetown.webp"
+    },
+    {
+        "name": "Air Jordan 1 High Element Gore-Tex 'Light Bone'",
+        "description": "A rugged take on the classic Air Jordan 1, incorporating Gore-Tex technology.",
+        "year": 2021,
+        "price": 264,
+        "image": "images/Gore_tex_light_bone.webp"
+    }
+]
